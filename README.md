@@ -46,9 +46,9 @@
 </div>
 
 
-## Visitors
+<!-- ## Visitors -->
 
-![:asuyou](https://count.getloli.com/get/@:asuyou)
+<!-- ![:asuyou](https://count.getloli.com/get/@:asuyou) -->
 
 
 <p align="center">
