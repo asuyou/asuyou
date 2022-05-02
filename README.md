@@ -11,6 +11,8 @@
 
 ⚗️ Feel free to ask me any questions or contact me
 
+**There's not too much here yet as most stuff is local and not worth pushing...**
+
 ## My tech stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=HTML5&logoColor=ffffff)
