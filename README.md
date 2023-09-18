@@ -1,4 +1,4 @@
-<h1 align="center">Hello There, I'm <a href="https://asyo.dev">A</a></h1>
+<h1 align="center">Hello There, I'm <a href="https://asyo.dev">Albert</a></h1>
 <h3 align="center">Just some random dev with too little time</h3>
 
 ⌨️ I'm just a random student trying to learn too much
