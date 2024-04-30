@@ -15,14 +15,13 @@
 
 **There's not too much here yet as most stuff is local and not worth pushing...**
 
-## Take a look at
+<!-- ## Take a look at -->
 
-<p align="center">
-  <strong><a href="https://asyo.dev">My Site</a></strong> |
+<!-- <p align="center"> -->
+<!--   <strong><a href="https://asyo.dev">My Site</a></strong> | -->
 <!--   <strong><a href="https://discordapp.com/users/350708685481312257">Discord</a></strong> -->
-  <strong><a href="https://blog.asyo.dev/">Hashnode blog</a></strong> |
-  <strong><a href="https://github.com/asuyou/notes">Obsidian Note</a></strong> |
-</p>
+<!--   <strong><a href="https://blog.asyo.dev/">Hashnode blog</a></strong> -->
+<!-- </p> -->
 
 ## Currently working on
 
