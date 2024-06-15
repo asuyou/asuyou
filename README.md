@@ -25,7 +25,7 @@
 
 ## Currently working on
 
-- Exams
+- Securing DNS queries
 
 ## My tech stack
 
@@ -50,7 +50,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=whitehttps://img.shields.io/badge/-Linux-12aabb?style=flat-square&logo=linux&logoColor=white)
 
-
+<!--
 ## Stats
 
 <div align="center">
@@ -60,7 +60,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asuyou&layout=compact&theme=radical&?count_private=true)
 
 </div>
-
+-->
 
 <!-- ## Visitors -->
 
