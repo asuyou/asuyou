@@ -1,7 +1,7 @@
-<h1 align="center">Hiya, I'm <a href="https://asyo.dev">Iris</a></h1>
-<h3 align="center">Just some random dev with too little time</h3>
+<h1 align="center">Hiya, I'm <a href="https://github.com/asuyou">Iris</a></h1>
+<h3 align="center">A dev working on crypto, graphics and more</h3>
 
-⌨️ I'm just a random student trying to learn too much
+⌨️ I'm a student trying to learn as much as I can
 
 🖋️ I'm interested in everything from AI, to graphic design and digital art to penetration testing
 
@@ -13,7 +13,7 @@
 
 🧮 Hung up on lattice based cryptography and functional programming
 
-**There's not too much here yet as most stuff is local and not worth pushing...**
+**There's not too much here yet as most stuff is local...**
 
 <!-- ## Take a look at -->
 
@@ -26,6 +26,7 @@
 ## Currently working on
 
 - Securing DNS queries
+- GPU graphics pipelines
 
 ## My tech stack
 
